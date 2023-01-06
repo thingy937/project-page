@@ -20,8 +20,10 @@
 <p align="center">
 <p><a title="Asteroid Rush" href="https://thingy937.github.io/Asteroid-Rush/">Asteroid Rush</a></p>
 <p>2D game similar to Subway Surfers</p>
+</p>
 <p>&nbsp;</p>
-<p><a title="Asteroid Rush" href="https://thingy937.github.io/Crappy-Bird/">Asteroid Rush</a></p>
+<p align="center">
+<p><a title="Crappy Bird" href="https://thingy937.github.io/Crappy-Bird/">Asteroid Rush</a></p>
 <p>A pretty terrible attempt at creating flappy bird</p>
 </p>
 <p>&nbsp;</p>
