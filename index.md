@@ -13,7 +13,6 @@
   }
   </style>
 <div style="width: 100;height: 100;background-color: #03b1fc; background-image: linear-gradient(#03b1fc, #0339fc); border-radius: 10px; box-shadow: black 0px 0px 5px 5px;">
-<p>&nbsp;</p>
 <h1 style="text-align: center;">Ongoing Projects</h1>
 <table style="border-radius: 10px; box-shadow: black 0px 0px 1px 1px; width: 500px; margin-left: auto; margin-right: auto;">
 <tbody>
@@ -22,7 +21,6 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="border-radius: 10px; box-shadow: black 0px 0px 1px 1px; width: 500px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -31,7 +29,6 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="border-radius: 10px; box-shadow: black 0px 0px 1px 1px; width: 500px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
