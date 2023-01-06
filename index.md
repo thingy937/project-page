@@ -4,6 +4,7 @@
 <style>
   html, body {
     height: 100%;
+    margin: 0;
   }
   body {
     background: #36393f;
@@ -30,5 +31,9 @@
 <p align="center">
 <p style="text-align: center;"><a title="Crappy Bird" href="https://thingy937.github.io/Crappy-Bird/">Crappy Bird</a></p>
 <p style="text-align: center;">A pretty terrible attempt at creating flappy bird</p>
+<p>&nbsp;</p>
+<p align="center">
+<button style="background-color: transparent; border-radius: 100px; border: 0; cursor: pointer; box-shadow: 0px 0px 5px 5px #03b1fc; width: 50px; height: 50px; padding: 0px 0px;" onclick="location.href='https://thingy937.github.io/'"><img src="https://raw.githubusercontent.com/thingy937/Snake-game-/master/home_circle_icon_137496.png" width="50" height="50"></button>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
