@@ -32,4 +32,3 @@
 <p style="text-align: center;">A pretty terrible attempt at creating flappy bird</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-</div>
