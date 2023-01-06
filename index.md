@@ -16,7 +16,7 @@
 <p>&nbsp;</p>
 <h1>Ongoing Projects</h1>
 <p>&nbsp;</p>
-<table style="background-color: #03b1fc; border-radius: 10px; box-shadow: black 0px 0px 5px 5px; width: 409.733px;">
+<table style="border-radius: 10px; box-shadow: black 0px 0px 1px 1px; width: 500px;">
 <tbody>
 <tr>
 <td style="width: 400.733px;">&nbsp;Projects that appear on this page are not yet completed, some may never be completed as they are only made to test my coding abilities. If a project is finished, it will be removed from this page and will be added to the homepage.</td>
