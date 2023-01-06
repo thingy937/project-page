@@ -23,7 +23,7 @@
 </p>
 <p>&nbsp;</p>
 <p align="center">
-<p><a title="Crappy Bird" href="https://thingy937.github.io/Crappy-Bird/">Asteroid Rush</a></p>
+<p><a title="Crappy Bird" href="https://thingy937.github.io/Crappy-Bird/">Crappy Bird</a></p>
 <p>A pretty terrible attempt at creating flappy bird</p>
 </p>
 <p>&nbsp;</p>
