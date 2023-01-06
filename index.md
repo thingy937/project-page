@@ -35,7 +35,7 @@
 <table style="border-radius: 10px; box-shadow: black 0px 0px 1px 1px; width: 500px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td style="width: 200px; text-align: center;"><a title="Crappy Bird" href="https://thingy937.github.io/Crappy-Bird/">Asteroid Rush</a></td>
+<td style="width: 200px; text-align: center;"><a title="Crappy Bird" href="https://thingy937.github.io/Crappy-Bird/">Crappy Bird</a></td>
 <td style="width: 300px; text-align: center;">A pretty terrible attempt at creating flappy bird</td>
 </tr>
 </tbody>
