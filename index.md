@@ -10,6 +10,8 @@
     background: #36393f;
     display: flex;
     margin: 30px 30px 30px 30px;
+    align-items: center;
+    justify-content: center;
   }
   </style>
 <div style="width: 100;height: 100;background-color: #03b1fc; background-image: linear-gradient(#03b1fc, #0339fc); border-radius: 10px; box-shadow: black 0px 0px 5px 5px;">
