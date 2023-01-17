@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Ongoing Projects</title>
+  <title> Ongoing Projects </title>
 </head>
 <body>
 <style>
